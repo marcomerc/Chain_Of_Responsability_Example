@@ -3,7 +3,7 @@ public class Welder extends Employee{
 
 	
 	public Welder() {
-		authorityLevel = 2;
+		authorityLevel = WELDER;
 
 	}
 	

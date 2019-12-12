@@ -3,7 +3,7 @@ public class PartCollector extends Employee  {
 
 	
 	public PartCollector() {
-		authorityLevel = 1;
+		authorityLevel = PART_COLLECTOR;
 	}
 	@Override
 	protected void write(String message) {

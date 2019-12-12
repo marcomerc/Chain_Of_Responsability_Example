@@ -2,7 +2,7 @@
 public class Assembler extends Employee {
 
 	public Assembler() {
-		authorityLevel = 2;
+		authorityLevel = ASSEMBLER;
 
 	}
 	

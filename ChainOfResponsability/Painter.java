@@ -3,7 +3,7 @@ public class Painter extends Employee {
 
 	
 	public Painter(){
-		authorityLevel = 1;
+		authorityLevel = Painter;
 
 	}
 	
